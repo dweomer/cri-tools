@@ -16,11 +16,11 @@ require (
 	github.com/pborman/uuid v1.2.1
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.8.1
-	github.com/urfave/cli/v2 v2.3.0
+	github.com/urfave/cli/v2 v2.11.1
 	golang.org/x/net v0.0.0-20210520170846-37e1c6afe023
 	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
 	google.golang.org/grpc v1.42.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.22.2
 	k8s.io/apimachinery v0.22.2
 	k8s.io/client-go v0.22.2
